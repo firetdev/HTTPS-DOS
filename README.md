@@ -31,3 +31,10 @@ PARAMETERS are data sent (e.g. username=freddy). If they are not specified in pa
 
 ## DO NOT USE MALICIOUSLY! ONLY use on servers YOU OWN!
 
+
+
+## TO COMPILE:
+g++ -o https-dos https-dos.cpp -lssl -lcrypto
+
+
+
