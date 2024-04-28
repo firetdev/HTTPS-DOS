@@ -10,6 +10,7 @@ In params.txt, use $ to use a random string
 Example:
 
 username:$
+
 $:hi
 
 URL is url to attack.
